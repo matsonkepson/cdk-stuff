@@ -4,13 +4,13 @@
 
 1. Clone the repository
 
-2. Install the dependencies
+2. Install the code dependencies
 
 ```bash
 npm install
 ```
 
-3. Install dependencies
+3. Install dependencies for LocalStack
 
 ```bash
 # Install globally
