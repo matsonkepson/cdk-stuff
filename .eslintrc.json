@@ -1,0 +1,6 @@
+{
+  "root": true,
+  "extends": [
+    "./node_modules/prettier-config-matsonkepson/.eslintrc.json"
+  ]
+}
