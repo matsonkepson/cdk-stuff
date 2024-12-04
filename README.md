@@ -31,7 +31,9 @@ docker-compose -f localstack/docker-compose.yml up
 5. Bootstrap and deploy
 
 ```bash
+# Bootstrap project is a mandatory step
 cdklocal bootstarp 
 
+# Deploy your changes to LocalStack
 cdklocal deploy
 ```
