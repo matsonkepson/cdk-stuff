@@ -1,7 +1,7 @@
 import {join} from 'path';
 import {Runtime} from 'aws-cdk-lib/aws-lambda';
-import {App, Duration, Stack, StackProps} from 'aws-cdk-lib';
 import {NodejsFunction} from 'aws-cdk-lib/aws-lambda-nodejs';
+import {App, Duration, Stack, StackProps} from 'aws-cdk-lib';
 
 export class CdkStarterStack extends Stack {
     constructor(scope: App, id: string, props?: StackProps) {
